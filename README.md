@@ -1,4 +1,4 @@
-# para-sftp
+# para-sftp - A parallel sFTP client
 An sftp client that can handle several connections in parallel.
 
 The purpose is to support m2m file up- and downloads.
